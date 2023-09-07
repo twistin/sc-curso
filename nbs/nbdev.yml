@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sc-curso"
+  site-url: "https://twistin.github.io/sc-curso"
+  description: "Curso de iniciación a la creación musical con SuperCollider"
+  repo-branch: main
+  repo-url: "https://github.com/twistin/sc-curso"
